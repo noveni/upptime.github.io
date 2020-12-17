@@ -112,19 +112,19 @@
     "url": "https://www.nuanceinfuse.be",
     "icon": "https://favicons.githubusercontent.com/www.nuanceinfuse.be",
     "slug": "nuance-infuse",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
-    "time": 1934,
-    "timeDay": 0,
-    "timeWeek": 1934,
-    "timeMonth": 1934,
-    "timeYear": 1934,
+    "status": "up",
+    "uptime": "98.32%",
+    "uptimeDay": "95.31%",
+    "uptimeWeek": "98.32%",
+    "uptimeMonth": "98.32%",
+    "uptimeYear": "98.32%",
+    "time": 1835,
+    "timeDay": 1537,
+    "timeWeek": 1835,
+    "timeMonth": 1835,
+    "timeYear": 1835,
     "dailyMinutesDown": {
-      "2020-12-17": 9
+      "2020-12-17": 67
     }
   },
   {
