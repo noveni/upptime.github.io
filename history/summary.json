@@ -95,14 +95,14 @@
     "icon": "https://favicons.githubusercontent.com/www.paloma-latelier.be",
     "slug": "paloma",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
     "time": 2329,
     "timeDay": 1956,
-    "timeWeek": 1834,
+    "timeWeek": 1549,
     "timeMonth": 2329,
     "timeYear": 2329,
     "dailyMinutesDown": {
@@ -251,9 +251,9 @@
     "url": "https://www.esfam.eu",
     "icon": "https://favicons.githubusercontent.com/www.esfam.eu",
     "slug": "esfam",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -262,6 +262,8 @@
     "timeWeek": 1927,
     "timeMonth": 2120,
     "timeYear": 2120,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-11": 0
+    }
   }
 ]
