@@ -186,19 +186,19 @@
     "url": "http://beta.chanelledbck.com",
     "icon": "https://favicons.githubusercontent.com/beta.chanelledbck.com",
     "slug": "chanelle-delbrouck",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1868,
-    "timeDay": 2190,
-    "timeWeek": 1979,
-    "timeMonth": 1836,
-    "timeYear": 1868,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
+    "time": 1882,
+    "timeDay": 2344,
+    "timeWeek": 2044,
+    "timeMonth": 1857,
+    "timeYear": 1882,
     "dailyMinutesDown": {
-      "2021-01-27": 0
+      "2021-01-27": 23
     }
   },
   {
