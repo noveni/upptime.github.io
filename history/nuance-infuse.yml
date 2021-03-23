@@ -1,7 +1,7 @@
 url: https://www.nuanceinfuse.be
-status: up
-code: 200
-responseTime: 1979
-lastUpdated: 2021-03-22T23:14:34.608Z
+status: down
+code: 500
+responseTime: 671
+lastUpdated: 2021-03-23T07:28:36.136Z
 startTime: Mon Dec 14 2020 06:05:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
